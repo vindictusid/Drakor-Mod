@@ -56,6 +56,13 @@
     "allowOffline": true
   },
   {
+    "id": "174922361cf5b84f",
+    "username": "6287785851401",
+    "password": "drakorvip",
+    "expiresAt": "2025-07-30",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
